@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj": {}
   },
   "projects": {
-    "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj",
         "projectName": "ArrB1",
-        "projectPath": "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj",
-        "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\CS-LTT\\arrayPrj\\arrayPrj\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
