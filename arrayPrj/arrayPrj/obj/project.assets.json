@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#-T\\arrayPrj\\arrayPrj\\ArrB1.csproj",
+      "projectUniqueName": "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj",
       "projectName": "ArrB1",
-      "projectPath": "D:\\C#-T\\arrayPrj\\arrayPrj\\ArrB1.csproj",
+      "projectPath": "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\ArrB1.csproj",
       "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "D:\\C#-T\\arrayPrj\\arrayPrj\\obj\\",
+      "outputPath": "D:\\C#-T\\CS-LTT\\arrayPrj\\arrayPrj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",

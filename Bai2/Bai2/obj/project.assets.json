@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#-T\\Bai2\\Bai2\\Bai2_while.csproj",
+      "projectUniqueName": "D:\\C#-T\\CS-LTT\\Bai2\\Bai2\\Bai2_while.csproj",
       "projectName": "Bai2_while",
-      "projectPath": "D:\\C#-T\\Bai2\\Bai2\\Bai2_while.csproj",
+      "projectPath": "D:\\C#-T\\CS-LTT\\Bai2\\Bai2\\Bai2_while.csproj",
       "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "D:\\C#-T\\Bai2\\Bai2\\obj\\",
+      "outputPath": "D:\\C#-T\\CS-LTT\\Bai2\\Bai2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
