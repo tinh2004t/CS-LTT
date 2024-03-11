@@ -1,0 +1,14 @@
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.AssemblyInfoInputs.cache
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.AssemblyInfo.cs
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.csproj.CoreCompileInputs.cache
+D:\C#-T\arrayPrj\arrayPrj\bin\Debug\net8.0\arrayPrj.exe
+D:\C#-T\arrayPrj\arrayPrj\bin\Debug\net8.0\arrayPrj.deps.json
+D:\C#-T\arrayPrj\arrayPrj\bin\Debug\net8.0\arrayPrj.runtimeconfig.json
+D:\C#-T\arrayPrj\arrayPrj\bin\Debug\net8.0\arrayPrj.dll
+D:\C#-T\arrayPrj\arrayPrj\bin\Debug\net8.0\arrayPrj.pdb
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.dll
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\refint\arrayPrj.dll
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.pdb
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\arrayPrj.genruntimeconfig.cache
+D:\C#-T\arrayPrj\arrayPrj\obj\Debug\net8.0\ref\arrayPrj.dll

@@ -1,0 +1,14 @@
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\bin\Debug\net8.0\Bai2_do_while_2.exe
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\bin\Debug\net8.0\Bai2_do_while_2.deps.json
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\bin\Debug\net8.0\Bai2_do_while_2.runtimeconfig.json
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\bin\Debug\net8.0\Bai2_do_while_2.dll
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\bin\Debug\net8.0\Bai2_do_while_2.pdb
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.AssemblyInfoInputs.cache
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.AssemblyInfo.cs
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.csproj.CoreCompileInputs.cache
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.dll
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\refint\Bai2_do_while_2.dll
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.pdb
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\Bai2_do_while_2.genruntimeconfig.cache
+D:\C#-T\Bai2_do_while_2\Bai2_do_while_2\obj\Debug\net8.0\ref\Bai2_do_while_2.dll
