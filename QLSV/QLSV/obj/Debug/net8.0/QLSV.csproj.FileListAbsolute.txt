@@ -1,0 +1,5 @@
+D:\C#-T\CS-LTT\QLSV\QLSV\obj\Debug\net8.0\QLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-T\CS-LTT\QLSV\QLSV\obj\Debug\net8.0\QLSV.AssemblyInfoInputs.cache
+D:\C#-T\CS-LTT\QLSV\QLSV\obj\Debug\net8.0\QLSV.AssemblyInfo.cs
+D:\C#-T\CS-LTT\QLSV\QLSV\obj\Debug\net8.0\QLSV.csproj.CoreCompileInputs.cache
+D:\C#-T\CS-LTT\QLSV\QLSV\obj\Debug\net8.0\QLSV.sourcelink.json

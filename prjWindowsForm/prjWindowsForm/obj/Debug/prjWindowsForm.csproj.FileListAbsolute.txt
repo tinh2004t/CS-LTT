@@ -1,0 +1,10 @@
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\bin\Debug\prjWindowsForm.exe.config
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\bin\Debug\prjWindowsForm.exe
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\bin\Debug\prjWindowsForm.pdb
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.csproj.AssemblyReference.cache
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.Form1.resources
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.Properties.Resources.resources
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.csproj.GenerateResource.cache
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.csproj.CoreCompileInputs.cache
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.exe
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.pdb
