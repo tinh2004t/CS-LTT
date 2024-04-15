@@ -8,3 +8,7 @@ D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.csproj.Gen
 D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.csproj.CoreCompileInputs.cache
 D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.exe
 D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.pdb
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.frmBai1.resources
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.Main.resources
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.frmBai4.resources
+D:\C#-T\CS-LTT\prjWindowsForm\prjWindowsForm\obj\Debug\prjWindowsForm.frmBai5.resources

@@ -1,0 +1,15 @@
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\bin\Debug\net8.0\BTLTHDT2.exe
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\bin\Debug\net8.0\BTLTHDT2.deps.json
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\bin\Debug\net8.0\BTLTHDT2.runtimeconfig.json
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\bin\Debug\net8.0\BTLTHDT2.dll
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\bin\Debug\net8.0\BTLTHDT2.pdb
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.AssemblyInfoInputs.cache
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.AssemblyInfo.cs
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.csproj.CoreCompileInputs.cache
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.sourcelink.json
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.dll
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\refint\BTLTHDT2.dll
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.pdb
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\BTLTHDT2.genruntimeconfig.cache
+D:\C#-T\CS-LTT\BTLTHDT2\BTLTHDT2\obj\Debug\net8.0\ref\BTLTHDT2.dll

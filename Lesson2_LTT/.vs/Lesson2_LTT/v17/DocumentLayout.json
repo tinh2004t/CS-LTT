@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|d:\\c#-t\\cs-ltt\\lesson2_ltt\\lesson2_ltt\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|solutionrelative:lesson2_ltt\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|d:\\c#-t\\cs-ltt\\lesson2_ltt\\lesson2_ltt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|solutionrelative:lesson2_ltt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|d:\\c#-t\\cs-ltt\\lesson2_ltt\\lesson2_ltt\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|solutionrelative:lesson2_ltt\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|d:\\c#-t\\cs-ltt\\lesson2_ltt\\lesson2_ltt\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|solutionrelative:lesson2_ltt\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|d:\\c#-t\\cs-ltt\\lesson2_ltt\\lesson2_ltt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D2159A-09A0-4ED4-A2ED-28ED438F31E9}|Lesson2_LTT\\Lesson2_LTT.csproj|solutionrelative:lesson2_ltt\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lesson2_LTT\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Lesson2_LTT\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:24:09.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lesson2_LTT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lesson2_LTT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:20:27.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson2_LTT\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Lesson2_LTT\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:17:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lesson2_LTT\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lesson2_LTT\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:16:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lesson2_LTT\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\C#-T\\CS-LTT\\Lesson2_LTT\\Lesson2_LTT\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lesson2_LTT\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:14:30.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
